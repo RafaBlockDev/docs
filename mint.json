@@ -2,10 +2,10 @@
   "$schema": "https://mintlify.com/schema.json",
   "name": "Starter Kit",
   "logo": {
-    "dark": "/logo/dark.svg",
-    "light": "/logo/light.svg"
+    "dark": "https://binkio-pay.s3.us-west-2.amazonaws.com/utils/documentation/logo.svg",
+    "light": "https://binkio-pay.s3.us-west-2.amazonaws.com/utils/documentation/logo.svg"
   },
-  "favicon": "/favicon.svg",
+  "favicon": "https://binkio.s3.us-west-2.amazonaws.com/pay/favicon.ico",
   "colors": {
     "primary": "#0D9373",
     "light": "#07C983",
@@ -18,12 +18,12 @@
   "topbarLinks": [
     {
       "name": "Support",
-      "url": "mailto:hi@mintlify.com"
+      "url": "rafael@binkio.io"
     }
   ],
   "topbarCtaButton": {
     "name": "Dashboard",
-    "url": "https://dashboard.mintlify.com"
+    "url": "https://pay.binkio.io"
   },
   "tabs": [
     {
@@ -35,17 +35,17 @@
     {
       "name": "Documentation",
       "icon": "book-open-cover",
-      "url": "https://mintlify.com/docs"
+      "url": "https://docs.binkio.io"
     },
     {
       "name": "Community",
       "icon": "slack",
-      "url": "https://mintlify.com/community"
+      "url": "/"
     },
     {
       "name": "Blog",
       "icon": "newspaper",
-      "url": "https://mintlify.com/blog"
+      "url": "https://blog.binkio.io"
     }
   ],
   "navigation": [
@@ -85,7 +85,7 @@
   ],
   "footerSocials": {
     "x": "https://x.com/mintlify",
-    "github": "https://github.com/mintlify",
-    "linkedin": "https://linkedin.com/company/mintlify"
+    "instagram": "https://www.instagram.com/itsbinkio",
+    "linkedin": "https://www.linkedin.com/company/binkio/"
   }
 }
