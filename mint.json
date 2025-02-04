@@ -5,7 +5,7 @@
     "dark": "https://binkio-pay.s3.us-west-2.amazonaws.com/utils/documentation/logo.svg",
     "light": "https://binkio-pay.s3.us-west-2.amazonaws.com/utils/documentation/logo.svg"
   },
-  "favicon": "/favicon.png",
+  "favicon": "/favicon.svg",
   "colors": {
     "primary": "#0D9373",
     "light": "#07C983",
