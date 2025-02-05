@@ -37,14 +37,14 @@
   ],
   "anchors": [
     {
-      "name": "Documentation",
-      "icon": "book-open-cover",
-      "url": "https://docs.binkio.io"
+      "name": "Support",
+      "icon": "github",
+      "url": "https://github.com/orgs/BinkioCorp/discussions"
     },
     {
       "name": "Community",
       "icon": "discord",
-      "url": "/"
+      "url": "https://discord.gg/binkio"
     },
     {
       "name": "Blog",
